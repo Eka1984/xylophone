@@ -1,16 +1,17 @@
-# xylophone
+# Xylophone App
 
-A new Flutter project.
+This project is a simple xylophone application developed as part of Angela Yu's Flutter course on Udemy. The app allows users to play musical notes by tapping on colored bars, each representing a different note.
 
-## Getting Started
+![Xylophone App Screenshot](images/xylophone.png)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+The Xylophone app is a fun and interactive way to learn about Flutter development and sound integration in mobile applications. This project demonstrates the basics of creating a simple user interface, handling user interactions, and playing audio files in a Flutter app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Interactive UI with colorful xylophone bars
+- Plays different musical notes when bars are tapped
+- Simple and intuitive design
+- Uses Flutter and Dart for cross-platform development
+
